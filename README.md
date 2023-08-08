@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GetmeV8
+- 👋 Hi, I’m @Ramiz Ebrahim
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate with Elon Musk or Google
+- 💞️
 - 📫 
 
 <!---
