@@ -40,28 +40,12 @@ You can click the Preview link to take a look at your changes.
 
 <div>
 
-<i>&nbsp; Experiencing the exhilaration of having your work recognized and appreciated by the community is an unmatched sensation. I have an unwavering dedication to exploring trending technologies like web3 and blockchain.</i><br><br>
+<i>&nbsp; Experiencing the exhilaration of having your work recognized and appreciated by the community is an unmatched sensation. I have a dedication to exploring trending technologies.</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Anmol Baranwal, an enthusiastic full-stack developer hailing from India.
+👋 Greetings! It's great to have you here. I'm Rameez Ibrahim an enthusiastic full-stack developer hailing from India.
 
-🏆 Secured [11th Rank](https://gssoc.girlscript.tech/leaderboard) in GSSoC'23 (contributor), did mentoring for [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io), and devised content as a core team member for 2 lakh+ audiences.
+🚀 &nbsp; Passionate about community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. 
 
-🎓 &nbsp; I'm pursuing a Bachelor of Technology with a degree in Computer Science.
-
-🤝 &nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/getmeV8/) and collaborate on projects that make a difference.
-
-🚀 &nbsp; Passionate about community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. My forte lies in exploring and harnessing the potential of trending technologies such as Next.js and TypeScript.
-
-🔖 &nbsp; I've been busy creating valuable content and producing articles that educate and inspire others in the tech community. Explore my insightful reads and join my 1k+ followers on [dev.to](https://dev.to/anmolbaranwal).
-
-🔥 &nbsp; As an active member of the programming community, I proudly engage on [daily.dev](https://app.daily.dev/getmeV8) with over <em>5k+</em> reputation.
-
-🎁 I have actively participated in the product hunt community, where my exceptional free and open-source resource received 40+ upvotes. Check out the product on [Product Hunt](https://www.producthunt.com/posts/awesome-illustrations-for-projects) to see its impact.
-
-😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [chess](https://lichess.org/@/Anmol_Baranwal
-), writing insightful articles on [dev.to](https://dev.to/anmolbaranwal), or contributing to exciting open-source projects.
-
-📚 To discover more about my work, achievements, and ongoing projects, visit https://anmolbaranwal.co/. It's a comprehensive showcase of my professional journey.
 
 </div>
 
@@ -203,7 +187,7 @@ You can click the Preview link to take a look at your changes.
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/getmeV8/getmeV8/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
  
