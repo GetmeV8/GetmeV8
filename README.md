@@ -51,28 +51,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<details>
-  <summary>🏆 Achievements</summary>
-  <br>
-  
-
-  💜 GitHub Zone
-  - _200+_ Stars on my GitHub Profile.
-  - Active participant in GitHub Community discussions, answering [35+ discussions](https://github.com/orgs/community/discussions?discussions_q=commenter%3AgetmeV8+is%3Aanswered).
-  - Consistently ranked as one of the _top 5_ Most Helpful members on the [GitHub Community](https://github.com/orgs/community/discussions) discussions for almost a month.
-  - Recognized as a Top Contributor of [LinksHub](https://www.linkshub.dev/contributors).
-  - Managing [ZeroOctave JavaScript Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) with 400+ Stars on GitHub.
-  - Mentor of [WebXDAO](https://github.com/WebXDAO/WebXDAO.github.io) under GSSoC'23.
-
-  💜 Casual Zone
-  - 1st Prize in [chess](https://drive.google.com/file/d/1I8UIP4hw6ofD9RkdxILetRPi3j7gfcb2/view?usp=sharing) competition at college.
-  - 2nd Prize in Coding Treasure Hunt at college.
-  - 1200 Rank in National Coding Competition _Accio-Wars_
-  - Part of the Super 30 Batch, availing a 100% scholarship (3 students in the entire college)
-  - Acquired over _1k_ followers on [Dev.to](https://dev.to/anmolbaranwal) through trending articles
-  - _5k+_ reputation on [Daily.dev](https://app.daily.dev/getmeV8)
-  
-</details>
 
 <br><br>
 
@@ -186,6 +164,7 @@ You can click the Preview link to take a look at your changes.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
