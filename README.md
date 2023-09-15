@@ -15,14 +15,14 @@ You can click the Preview link to take a look at your changes.
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Banner GitHub](https://github.com//getmeV8/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
+![Banner GitHub](https://github.com//Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FgetmeV8%2FgetmeV8&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  
   <br><br>
   <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
 <!--   <a href="https://www.showwcase.com/getmeV8"><img src="https://github.com/getmeV8/getmeV8/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
