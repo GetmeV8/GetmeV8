@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 Greetings! It's great to have you here. I'm Rameez Ibrahim an enthusiastic full-stack developer hailing from India.
 
-🚀 &nbsp; Passionate about community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer. 
+🚀 &nbsp; Passionate about community engagement and crafting cutting-edge solutions, I bring a unique blend of expertise as a Full-Stack developer..
 
 
 </div>
