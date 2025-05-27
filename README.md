@@ -3,7 +3,7 @@
 
 
 
-👋 Greetings! I'm Rameez Ibrahim an enthusiastic Software Engineer hailing from India.
+👋 Greetings! I'm Rameez Ibrahim an enthusiastic Software Engineer hailing from India
 </div>
 
 <br>
